@@ -1,0 +1,6 @@
+Package: ROI.plugin.mosek
+Version: 0.5-0
+Imports: stats, methods, Matrix, slam, ROI (>= 0.3-0), Rmosek
+License: GPL-3
+MD5sum: 662cd4e62f6d1cd309358b3ec7546543
+NeedsCompilation: no
